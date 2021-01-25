@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"boyaki4ddc6850": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
